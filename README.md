@@ -1,9 +1,5 @@
 
-# Welcome to use PicX
+# dari的白嫖图床
 
-[PicX](https://github.com/XPoet/picx) is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.
-
-PicX is completely open source, and you can use it for free.
-
-If you like it, please give it a star on [GitHub](https://github.com/XPoet/picx).
+因为是公共仓库所以不会有你想看到的东西的哦(●'◡'●)
         
